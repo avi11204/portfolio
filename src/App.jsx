@@ -8,7 +8,7 @@ function App() {
   <nav className="navbar">
   <div className="container navbar-content">
     <a className="navbar-brand" href="#">
-      <img src="Logo2.png" alt="Logo" className="logo-img" />
+      <img src="Logo 2.png" alt="Logo" className="logo-img" />
     </a>
     <a href="#tech-stacks" className="nav-link">Tech Stacks</a>
   </div>
